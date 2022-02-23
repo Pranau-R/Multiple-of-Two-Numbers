@@ -5,3 +5,4 @@ It consist of the following files:
 - App
 - Docs
 - src
+- assests
