@@ -6,3 +6,7 @@ It consist of the following files:
 - Docs
 - src
 - assests
+
+The following image shows the flow chart:
+
+![Flow chart for multiple of two numbers](assets/Multiple-of-Two-Numbers.png)
