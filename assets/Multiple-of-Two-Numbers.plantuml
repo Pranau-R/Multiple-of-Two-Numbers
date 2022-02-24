@@ -1,0 +1,15 @@
+@startuml
+
+start
+:Get int num2, num1;
+if(is_Multiple(num1, num2)?) then (Yes)
+: Print num2 is a multiple of num1;
+else (No)
+: Print num2 is not a multiple of num1;
+endif
+stop
+
+@enduml
+
+
+
