@@ -1,15 +1,13 @@
 @startuml
 
 start
-:Get int num2, num1;
-if(is_Multiple(num1, num2)?) then (Yes)
-: Print num2 is a multiple of num1;
+:Declare two variables for input;
+:Get two integer input from user and store them in those variables;
+if(is number2 multiple of number1?) then (Yes)
+: Display number2 is a multiple of number1;
 else (No)
-: Print num2 is not a multiple of num1;
+: Display number2 is not a multiple of number1;
 endif
 stop
 
 @enduml
-
-
-
